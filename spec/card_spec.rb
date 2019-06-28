@@ -19,3 +19,5 @@ RSpec.describe Card do
     expect(@card.suit).to eq('Spades')
   end
 end
+
+# test new git user
