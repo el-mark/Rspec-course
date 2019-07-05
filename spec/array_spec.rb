@@ -7,3 +7,5 @@ RSpec.describe Array do
 end
 
 # 2. It returns an instace object of the Array class
+
+# 3. Because then you can use the subject method that replaces with the class that you are working with. Serving as the Let helper.
