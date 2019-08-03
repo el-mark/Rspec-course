@@ -1,3 +1,6 @@
+# https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers/start-with-matcher
+# https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers/end-with-matcher
+
 RSpec.describe 'start_with and end_with matchers' do
   describe 'caterpillar' do
     it 'should check for substring at the beginning or end' do
@@ -22,6 +25,3 @@ RSpec.describe 'start_with and end_with matchers' do
   end
 
 end
-
-# https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers/start-with-matcher
-# https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers/end-with-matcher
