@@ -1,8 +1,10 @@
 # Rspec-course
 
 
-## Clear test database
+## Rspec documentation
+https://relishapp.com/rspec/rspec-expectations/v/3-8/docs
 
+## Clear test database
 bundle exec rake db:drop RAILS_ENV=test
 bundle exec rake db:create RAILS_ENV=test
 bundle exec rake db:schema:load RAILS_ENV=test
